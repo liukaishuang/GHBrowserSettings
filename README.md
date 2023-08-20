@@ -1,3 +1,3 @@
 # GHBrowserSettings
 On the windows platform!
-Help you connect to github!
+Help your browser connect to github!
